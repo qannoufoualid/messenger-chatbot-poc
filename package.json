@@ -1,0 +1,24 @@
+{
+  "name": "messenger-poc",
+  "version": "1.0.0",
+  "description": "Poc for messenger chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qannoufoualid/messenger-chatbot-poc.git"
+  },
+  "keywords": [
+    "messenger",
+    "account",
+    "linking"
+  ],
+  "author": "oualidqannouf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qannoufoualid/messenger-chatbot-poc/issues"
+  },
+  "homepage": "https://github.com/qannoufoualid/messenger-chatbot-poc#readme"
+}
